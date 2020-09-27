@@ -10,17 +10,11 @@ import java.util.Arrays;
 public class Oppg3 {
 
 	public static void main(String[] args) {
-		int [][] matrise1 = { {1,2,3},
-							  {3,2,1},
-							  {9,8,1} };
+		int [][] matrise1 = { {1,2,3},{3,2,1},{9,8,1} };
 		
-		int [][] mat1 = { {1,2,3},
-				  		  {3,2,1},
-				  		  {9,8,1} };
+		int [][] mat1 = { {1,2,3},{3,2,1},{9,8,1} };
 		
-		int [][] mat2 = { {1,2,3},
-				  	      {3,2,1},
-				  	      {9,8,1} };
+		int [][] mat2 = { {1,2,3},{3,2,1},{9,8,1} };
 		
 		
 		int tall = 2;
