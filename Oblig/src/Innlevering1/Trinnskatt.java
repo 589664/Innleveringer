@@ -1,4 +1,4 @@
-package Innlevering;
+package Innlevering1;
 import static javax.swing.JOptionPane.*;
 
 public class Trinnskatt {
